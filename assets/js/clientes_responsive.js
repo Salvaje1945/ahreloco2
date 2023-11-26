@@ -10,9 +10,10 @@ export default function responsiveSlider(id, mq, mobileContent, desktopContent) 
     const responsive = (evt) =>{
         if(evt.matches){
             $(id).innerHTML = desktopContent
+            clientesSlider('no')
         } else {
             $(id).innerHTML = mobileContent
-            clientesSlider()
+            clientesSlider('si')
         }
     }
     breakPoint.addListener(responsive)

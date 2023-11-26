@@ -162,18 +162,18 @@ export default function animaciones(elAncho, elElemento) {
     
                     alturaResultado = alturaCabecera + alturaCarrousel + alturaNosotros + alturaIndustrial + alturaPostventa + alturaServicioTec + alturaEntrega + (alturaEntrega /2)
     
-                    console.log('ALTURA MATERIAL:')
-                    console.log(alturaMaterial)
-                    console.log('*************')
-                    console.log('ALTURA TERMINACION:')
-                    console.log(alturaTerminacion)
-                    console.log('*************')
-                    console.log('ALTURA RESULTADO:')
-                    console.log(alturaResultado)
-                    console.log('*************')
-                    console.log('SCROLL ACTUAL:')
-                    console.log(scrollActual)
-                    console.log('*************')
+                    // console.log('ALTURA MATERIAL:')
+                    // console.log(alturaMaterial)
+                    // console.log('*************')
+                    // console.log('ALTURA TERMINACION:')
+                    // console.log(alturaTerminacion)
+                    // console.log('*************')
+                    // console.log('ALTURA RESULTADO:')
+                    // console.log(alturaResultado)
+                    // console.log('*************')
+                    // console.log('SCROLL ACTUAL:')
+                    // console.log(scrollActual)
+                    // console.log('*************')
     
                     // alturaIconoEntrega = alturaCabecera + alturaCarrousel + alturaNosotros + alturaClientes
     
